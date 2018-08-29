@@ -1,0 +1,4 @@
+service{
+    "SAP_LEOPOLDO"."TABLES" as "Tables"; 
+    "SAP_LEOPOLDO"."SCHEMA_TABLE" as "Schema"; 
+}
